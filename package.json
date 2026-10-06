@@ -1,0 +1,14 @@
+{
+  "name": "zaddr-game",
+  "version": "1.0.0",
+  "description": "Ranger vs Zombies - A game built with Construct 3",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "keywords": ["game", "construct3"],
+  "author": "Muscle-SS",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.14"
+  }
+}
